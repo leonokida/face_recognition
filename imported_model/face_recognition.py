@@ -16,7 +16,7 @@ except:
 cap = cv2.VideoCapture(0)
 
 # without NMS
-"""
+
 while True:
     ret, frame = cap.read()  # Read frame from the webcam
 
@@ -56,9 +56,10 @@ while True:
 # Release the resources
 cap.release()
 cv2.destroyAllWindows()
-"""
+
 
 # With NMS
+"""
 while True:
     ret, frame = cap.read()
 
@@ -126,3 +127,4 @@ cv2.destroyAllWindows()
 # Release the resources
 cap.release()
 cv2.destroyAllWindows()
+"""
