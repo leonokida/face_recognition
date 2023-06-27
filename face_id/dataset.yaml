@@ -1,0 +1,6 @@
+train: /home/leon/machine-learning/visao-computacional/face_recognition/face_id/dataset/train
+val: /home/leon/machine-learning/visao-computacional/face_recognition/face_id/dataset/validation
+
+nc: 2
+
+names: ["cristiano", "leon"]
