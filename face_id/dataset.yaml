@@ -1,5 +1,5 @@
-train: /home/leon/machine-learning/visao-computacional/face_recognition/face_id/dataset/train
-val: /home/leon/machine-learning/visao-computacional/face_recognition/face_id/dataset/validation
+train: /home/cristiano/tf/face_recognition/face_id/dataset/train-2
+val: /home/cristiano/tf/face_recognition/face_id/dataset/validation
 
 nc: 2
 
